@@ -1,10 +1,15 @@
 # AWS Repo Template
 
-Repo template for use with AWS CLI, compatible with Codespaces, GitPod and DevContainer extension (for VSCode).
+Repositório com conteúdos para a certificação AWS Cloud Practitioner (CLF-C02).
 
-Template de repositório para usar com AWS CLI, compatível com Codespaces, GitPod e extensão DevContainer (para VSCode).
+## Mapa Mental
 
-## Extensions
+#### [Baixar em PDF](./diagramas/mapa-mental/Mapa%20Mental%20-%20AWS%20Cloud%20Practitioner.pdf)
+
+![mapa mental jpg](./diagramas/mapa-mental/Mapa%20Mental%20-%20AWS%20Cloud%20Practitioner.jpg)
+
+
+## Extensões neste repositório para Devcontainer / GitPod
 * AWS CLI
 * Git Graph
 * Git-log
