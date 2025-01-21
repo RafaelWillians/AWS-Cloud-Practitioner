@@ -1,4 +1,4 @@
-# AWS Repo Template
+# AWS Cloud Practitioner
 
 Repositório com conteúdos para a certificação AWS Cloud Practitioner (CLF-C02).
 
